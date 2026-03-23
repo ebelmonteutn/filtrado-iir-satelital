@@ -11,7 +11,8 @@ de voz en canales satelitales afectados por interferencias y ruido espacial.
 ## Herramientas
 Python · NumPy · SciPy · Matplotlib · Google Colab
 
-## Informe [Ver informe del proyecto](./informe_filtrado_iir.pdf)
+## Informe 
+[Ver informe del proyecto](./informe_filtrado_iir.pdf)
 
 ## Autores
 Aniel Sharpe, Matías Fernando González Falbo, Enzo Belmonte — UTN FRBA
