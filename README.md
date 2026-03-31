@@ -15,5 +15,4 @@ Python · NumPy · SciPy · Matplotlib · Google Colab
 [Ver informe del proyecto](./informe_filtrado_iir.pdf)
 
 ## Autores
-Aniel Sharpe, Matías Fernando González Falbo, Enzo Belmonte — UTN FRBA
-```
+Ariel Sharpe, Matías Fernando González Falbo, Enzo Belmonte — UTN FRBA
